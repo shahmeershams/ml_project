@@ -36,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: my_code_and_model
-          path: my_code_and_model.zip
+          path: my_code_and_model.zip 
